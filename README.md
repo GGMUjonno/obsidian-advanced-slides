@@ -24,6 +24,7 @@
 	<a href="https://mszturc.github.io/obsidian-advanced-slides/lcov-report/">
 		<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MSzturc/a2879612aa47b6364392d94cae882c50/raw/obsidian-advanced-slides_coverage.json">
 	</a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGGMUjonno%2Fobsidian-advanced-slides?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGGMUjonno%2Fobsidian-advanced-slides.svg?type=shield"/></a>
 </p>
 
 <div align="center">
@@ -61,3 +62,6 @@ If you like Advanced Slides and want to support my work, I would appreciate a <a
 </div>
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGGMUjonno%2Fobsidian-advanced-slides.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGGMUjonno%2Fobsidian-advanced-slides?ref=badge_large)
